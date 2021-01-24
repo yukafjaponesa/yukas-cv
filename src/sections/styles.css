@@ -1,0 +1,128 @@
+body {
+  margin: 10px;
+}
+
+.main-container {
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+
+#profile-pic {
+  width: 125px;
+  height: 125px;
+  margin-left: 110px;
+  margin-top: 30px;
+  border-radius: 5px;
+}
+
+.header-column {
+  display: flex;
+}
+
+.birthday {
+  width: 170px;
+}
+
+.section-container {
+  margin-bottom: 30px;
+}
+
+h3 {
+  color: #5f9ea0;
+}
+
+.with-icon {
+  margin-left: 10px;
+  margin-top: -4px;
+}
+
+.contact-div {
+  display: flex;
+}
+
+.fab fa-linkedin {
+  margin-left: 20px;
+}
+
+a {
+  margin-left: 2px;
+}
+
+.all-resouces {
+  width: 300px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.married-nation {
+  margin-top: 0px;
+}
+
+#married {
+  margin-left: -20px;
+}
+
+.contact-title {
+  margin-top: 0px;
+  margin-right: 50px;
+}
+
+.map-point {
+  display: flex;
+  margin-bottom: -20px;
+}
+
+.each-item {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.description-up {
+  width: 500px;
+}
+
+.description {
+  width: 500px;
+  margin-left: 10px;
+}
+
+hr {
+  border: none;
+  border-top: 3px dashed #6495ed;;
+  color:  #fff;
+  background-color: #fff;
+  height: 1px;
+  width:  100%;
+}
+
+@media screen and (max-width: 1050px) {
+  .main-container {
+    width: 99%;
+  }
+
+  .each-item {
+    display: flex;
+    flex-direction: column;
+    width: auto;
+  }
+
+  .description-up {
+    width: auto;
+  }
+
+  .description {
+    width: auto;
+  }
+}
+
+@media screen and (max-width: 455px) {
+  body {
+    /*margin: auto;*/
+  }
+
+  .main-container {
+    width: auto;
+  }
+}
