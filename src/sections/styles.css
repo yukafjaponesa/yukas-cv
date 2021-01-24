@@ -5,6 +5,8 @@ body {
 .main-container {
   margin-left: auto;
   margin-right: auto;
+  padding-left: 10px;
+  padding-right: 10px;
   background-color: #F0F8FF;
   width: 60%;
 }
@@ -12,7 +14,7 @@ body {
 #profile-pic {
   width: 125px;
   height: 125px;
-  margin-left: 110px;
+  margin-left: 100px;
   margin-top: 30px;
   border-radius: 5px;
 }
