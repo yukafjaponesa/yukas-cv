@@ -1,5 +1,5 @@
 body {
-  margin: 10px;
+  margin: 0;
 }
 
 .main-container {
@@ -98,6 +98,11 @@ hr {
   background-color: #fff;
   height: 1px;
   width:  100%;
+}
+
+.language-section {
+  /*border: solid red 2px;*/
+  margin-bottom: 0;
 }
 
 @media screen and (max-width: 1050px) {
