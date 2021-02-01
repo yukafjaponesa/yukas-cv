@@ -15,7 +15,7 @@ function Education() {
             </div> {/*end of map-point*/}
           </div> {/*end of description-up*/}
           <div className="description">
-            <p>A non-profitable coding school. The course includes HTML, CSS, JavaScript, Git, MySQL, Node.js, React.js, RestAPI, Swagger, Postman, Storybook and KnexJS.
+            <p>A non-profitable coding school. The course includes HTML, CSS, JavaScript, Git, MySQL, Node.js, React.js, RestAPI and Postman.
               <br />
               In the end of all the modules, we had a final project to build an app. In the final project, we used Storybook, KnexJS and Swagger, too. Link is in Portfolio.
             </p>
