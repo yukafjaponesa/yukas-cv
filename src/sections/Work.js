@@ -40,25 +40,8 @@ function Work() {
       <hr></hr>
       <div className="each-item">
         <div className="description-up">
-          <p><u>Tour conductor</u></p>
-          <p><i>04/2016 -12/2016</i></p>
-          <div className="map-point">
-            <i className="fas fa-map-marker-alt"></i>
-            <p className="with-icon">Nagano International Tours / Nagano, Japan</p>
-          </div> {/*end of map-point*/}
-        </div> {/*end of description-up*/}
-        <div className="description">
-          <p>Attended group tours in Japan. Contacted hotels and places to visit on the tour to check the appointment.
-            Carried on tours as scheduled time. Also, attended school trips for hight school and junior high school.
-          </p>
-        </div> {/*end of description*/}
-      </div> {/*end of each-item*/}
-
-      <hr></hr>
-      <div className="each-item">
-        <div className="description-up">
           <p><u>Receptionist</u></p>
-          <p><i>04/2014 -03/2016</i></p>
+          <p><i>04/2014 -03/2017</i></p>
           <div className="map-point">
             <i className="fas fa-map-marker-alt"></i>
             <p className="with-icon">Hotel Tangram / Nagano, Japan</p>
