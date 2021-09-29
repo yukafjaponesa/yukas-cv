@@ -22,6 +22,11 @@ function Resources() {
             <i className="fab fa-product-hunt"></i>
             <a href="https://wonderful-bhaskara-332906.netlify.app" target="_blank">Portfolio</a>
           </div>
+
+          <div>
+            <i className="fas fa-home"></i>
+            <a href="https://what-yuka-cooks.herokuapp.com/" target="_blank">Website</a>
+          </div>
         </div>
       </div>
     </div>
